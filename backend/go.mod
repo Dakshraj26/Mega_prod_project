@@ -1,4 +1,4 @@
-module github.com/trainwithshubham/skillpulse
+module github.com/Dakshraj26/Mega_prod_project
 
 go 1.26
 

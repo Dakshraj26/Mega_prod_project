@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/trainwithshubham/skillpulse/database"
-	"github.com/trainwithshubham/skillpulse/models"
+	"github.com/Dakshraj26/Mega_prod_project/database"
+	"github.com/Dakshraj26/Mega_prod_project/models"
 )
 
 func CreateLog(c *gin.Context) {
